@@ -6,5 +6,6 @@
 #include <Foo.hpp>
 
 // work here
+// ME COMMENT
 
 #endif // YOU_HPP
