@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jon/Documents/ETEC2104/GitLab/SSU_ETEC2104_OOP-Software-Design_Student-13/Foo.cpp
+Foo.hpp
+-
+
+C:/Users/Jon/Documents/ETEC2104/GitLab/SSU_ETEC2104_OOP-Software-Design_Student-13/Foo.hpp
+
+C:/Users/Jon/Documents/ETEC2104/GitLab/SSU_ETEC2104_OOP-Software-Design_Student-13/main.cpp
+Foo.hpp
+C:/Users/Jon/Documents/ETEC2104/GitLab/SSU_ETEC2104_OOP-Software-Design_Student-13/Foo.hpp
+You.hpp
+-
+string
+-
+iostream
+-
+cstdlib
+-
+
